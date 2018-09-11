@@ -1,0 +1,19 @@
+.box
+	{
+		min-height: 200px;
+		background-color: grey;
+		border-radius: 10px;
+	}
+.btn
+	{
+		width: auto;
+		height: auto;
+		background-color: #0088ee;
+		border-radius: 25px;
+		border: 2px solid #0088ee; 
+		color: #fff;
+		padding: 5px;
+		margin-top: 140px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}

@@ -1,0 +1,42 @@
+.header
+{
+			
+	background-color: #000;
+	color: #fff;
+	padding: 10px 10px;
+	width: 100%;
+}
+.con
+{
+	width: 80%;
+}
+.head
+{
+	padding: 0px 0px;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.project
+{
+	padding: 20px;
+}
+h4
+{
+	color: #007baf;
+}
+.margin-left
+{
+    margin-left: 60px;
+}
+.font-20
+{
+    font-size: 20px;
+}
+.font-40
+{
+    font-size: 40px;
+}
+.con-padding
+{
+    padding: 20px 60px;
+}

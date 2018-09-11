@@ -1,0 +1,39 @@
+.header
+{
+	
+	background-color: #000;
+	color: #fff;
+	padding: 10px 10px;
+	width: 100%;
+}
+.card-design
+{ 
+	border: 1px solid grey;
+	padding: 5px 5px 20px 5px;
+	border-radius: 5px;
+}
+footer
+{
+    padding:20px 0px 40px 0px;
+}
+.card-design
+{
+	padding: 20px 20px; 
+	border: 0px solid grey;
+	background-color: #eeeeee;
+	margin: 10px;
+	border-radius: 5px;
+	width: 100%;
+}
+.spancolor
+{
+	color: #007bbf;
+}
+.margin-left
+{
+    margin-left: 60px;
+}
+.width-full
+{
+    width: 100%;
+}

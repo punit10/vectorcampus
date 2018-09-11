@@ -1,0 +1,26 @@
+.header
+{
+	background-color: #000;
+	color: #fff;
+	padding: 10px 10px;
+    width: 100%;
+}
+.jumbotron
+{
+	margin-top: 60px;
+}
+.card-style
+{
+	text-align: center; 
+	border: 0px solid grey;
+	padding: 5px 5px 20px 5px;
+	border-radius: 5px;
+}
+footer
+{
+	padding: 28px 2px;
+}
+.margin-left
+{
+    margin-left: 60px;
+}
