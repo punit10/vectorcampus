@@ -1,0 +1,45 @@
+div.absolute 
+{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+}
+div.hero
+{
+	position: absolute;
+    top: 200px;
+    left: 604px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid yellow;
+}
+div.hero2
+{
+	position: absolute;
+    top: 304px;
+    left: 400px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid green;
+}
+div.hero3
+{
+	position: absolute;
+    top: 304px;
+    left: 604px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid #dd2211;
+}
+div.hero4
+{
+	position: absolute;
+    top: 250px;
+    left: 550px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #f12011;
+}

@@ -1,0 +1,56 @@
+body
+{
+    background-color: #d7e7f4;
+}
+.container
+{
+    width: 954px;
+    background-color: #fff;
+    height: 60rem;
+    margin-left: 150px;
+    margin-top: -8px;
+}
+.right-text
+{
+    float: right;
+    margin-right: 22px;
+    margin-top:16px;
+}
+.font-st
+{
+    color: #007baf;
+    float: right;
+    font-family: sans-serif;
+    font-weight: 600;
+} 
+.img-margin
+{
+    margin-left: 22px;
+    float: left;
+}
+.input-ht
+{
+    height: 19px;
+ }
+.relative
+{
+    position: relative;
+}
+.absolute-text
+{
+position: absolute;
+    top: 48px;
+    right: 92px;    
+}
+.absolute-img
+{
+    position: absolute;
+    top: 48px;
+    right:22px;
+}
+.line
+{
+    margin-top: 220px;
+    width: 954px;
+    border-top: 4px solid black;
+}

@@ -1,0 +1,28 @@
+.grey
+	{
+		background-color: #eeeeee;
+	}
+.center
+	{
+		text-align: center;
+	}
+.rowcolor
+	{
+		background-color: #eeeeee;
+	}
+table, td, tr
+	{
+		border-collapse: collapse;
+	}
+th
+	{
+        background-color: #cdcdcd;
+        padding: 5px 20px;
+    }
+.ctr
+    {
+	    position: absolute;
+	 	left: 300px;
+	    width: 70%;
+	    padding: 10px;
+    }
